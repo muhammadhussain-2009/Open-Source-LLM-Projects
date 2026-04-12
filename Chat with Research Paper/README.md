@@ -170,12 +170,4 @@ Potential next steps to improve the project:
 
 ## License
 This repository currently does not include a license file. Consider adding one (for example, MIT) to make reuse and contributions clear.
-
 ---
-
-If you'd like, I can:
-- Draft a LICENSE file (MIT) for you.
-- Add a Dockerfile + docker-compose to containerize the app.
-- Implement a basic PDF upload + parsing flow and an example of adding embeddings using FAISS/Chroma.
-Let me know which of those you'd like me to create next.
-``` ````
