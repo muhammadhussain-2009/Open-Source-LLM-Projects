@@ -1,0 +1,15 @@
+[project]
+name = "image-to-structured-data"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "eval-type-backport>=0.4.0",
+    "instructor>=1.15.4",
+    "mistralai>=2.6.0",
+    "pillow>=12.3.0",
+    "pydantic>=2.13.4",
+    "python-dotenv>=1.2.2",
+    "streamlit>=1.59.2",
+]
