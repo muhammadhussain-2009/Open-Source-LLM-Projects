@@ -2,8 +2,6 @@
 
 > A LangGraph-powered RAG system that grades its own retrieved context, rewrites the search query when needed, and only generates an answer once the context passes validation.
 
-![Self-Reflective Agentic RAG Demo](assets/demo.png)
-
 ## Overview
 
 Standard RAG pipelines retrieve context and generate an answer immediately, with no check on whether the retrieved chunks are actually relevant or sufficient. This leads to hallucinations when the retrieval misses the mark.
