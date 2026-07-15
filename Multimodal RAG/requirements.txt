@@ -1,0 +1,11 @@
+google-genai >= 1.0.0
+langchain 
+langchain-community >= 0.3.0
+langchain-core >= 0.3.0
+langchain-text-splitters >= 0.3.0 
+chromadb 
+pypdf 
+httpx 
+beautifulsoup4
+streamlit 
+python-dotenv 
